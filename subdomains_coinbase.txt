@@ -1,0 +1,15 @@
+go.coinbase.com
+help.coinbase.com
+card.coinbase.com
+developers.coinbase.com
+api.coinbase.com
+blog.coinbase.com
+verify.coinbase.com
+ws.coinbase.com
+docs.cloud.coinbase.com
+docs.cdp.coinbase.com
+status.coinbase.com
+wallet.coinbase.com
+assethub.coinbase.com
+investor.coinbase.com
+profile.coinbase.com

@@ -1,0 +1,278 @@
+*original      coinbase.com     104.18.35.15 2606:4700:4400::6812:230f NS:sam.ns.cloudflare.com MX:alt1.aspmx.l.google.com
+addition       coinbaseo.com    104.21.33.33 2606:4700:3034::6815:2121 NS:becky.ns.cloudflare.com
+addition       coinbase6.com    115.126.37.141 NS:v1s1.xundns.com
+addition       coinbaseh.com    115.126.37.141 NS:v1s1.xundns.com
+addition       coinbasef.com    15.197.148.33 NS:ns31.domaincontrol.com
+addition       coinbasei.com    15.197.148.33 NS:ns31.domaincontrol.com
+addition       coinbaset.com    15.197.148.33 NS:ns31.domaincontrol.com
+addition       coinbaser.com    15.197.225.128 NS:ns29.domaincontrol.com
+addition       coinbasec.com    170.249.216.230 NS:ns1.htttps.org MX:coinbasec.com
+addition       coinbase2.com    188.114.96.5 2a06:98c1:3120::5 NS:magnolia.ns.cloudflare.com
+addition       coinbasel.com    199.59.243.226 NS:ns1.bodis.com
+addition       coinbasee.com    209.196.146.115 NS:ns3.epik.com
+addition       coinbasex.com    3.64.163.50 NS:ns1.dan.com
+addition       coinbased.com    35.71.188.61 NS:ns1.domain.link
+addition       coinbase3.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbase4.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasea.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbaseb.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbaseg.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasej.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasek.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasem.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasen.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasep.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbaseq.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbaseu.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasev.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasew.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbasey.com    99.83.176.46 NS:ns1.markmonitor.com
+addition       coinbase0.com    NS:ns7.alidns.com
+addition       coinbase1.com    NS:ns1.dns-parking.com
+addition       coinbase9.com    NS:kiki.ns.cloudflare.com
+addition       coinbases.com    NS:damon.ns.cloudflare.com
+bitsquatting   coincase.com     172.232.25.148 NS:ns1.parklogic.com MX:mx156.hostedmxserver.com
+bitsquatting   koinbase.com     199.59.243.226 NS:ns1.bodis.com
+bitsquatting   soinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasé.com     !ServFail !ServFail NS:!ServFail
+homoglyph      coinbasẹ.com     !ServFail !ServFail NS:!ServFail
+homoglyph      ćoinbasè.com     !ServFail !ServFail NS:!ServFail
+homoglyph      ćoinbasê.com     !ServFail !ServFail NS:!ServFail
+homoglyph      çoinbasê.com     !ServFail !ServFail NS:!ServFail
+homoglyph      çoinbasè.com     !ServFail !ServFail NS:!ServFail
+homoglyph      çoinbasé.com     !ServFail !ServFail NS:!ServFail
+homoglyph      coịnbase.com     104.21.21.90 2606:4700:3034::ac43:c554 NS:collins.ns.cloudflare.com
+homoglyph      coinbasė.com     13.212.176.232 NS:ns15.domaincontrol.com
+homoglyph      coinɓase.com     13.248.213.45 NS:ns53.domaincontrol.com
+homoglyph      coınbase.com     13.248.213.45 NS:ns53.domaincontrol.com
+homoglyph      cōinbase.com     147.79.116.27 2a02:4780:2a:c6e7:ce04:6c57:c64c:5779 NS:ns1.dns-parking.com MX:mx1.titan.email
+homoglyph      coiṇbase.com     15.197.148.33 NS:ns69.domaincontrol.com
+homoglyph      coiņbase.com     15.197.225.128 NS:ns39.domaincontrol.com
+homoglyph      coỉnbase.com     15.197.225.128 NS:ns09.domaincontrol.com
+homoglyph      ᴄoinƅase.com     188.114.96.5 2a06:98c1:3120::5 NS:major.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      ᴄoìnbase.com     188.114.96.5 2a06:98c1:3120::5 NS:major.ns.cloudflare.com
+homoglyph      coindase.com     192.64.119.97 NS:dns1.registrar-servers.com MX:aspmx1.migadu.com
+homoglyph      cóinbąse.com     198.54.117.242 NS:failed-whois-verification.namecheap.com
+homoglyph      còinbàse.com     198.54.117.242 NS:failed-whois-verification.namecheap.com
+homoglyph      cöinbàse.com     198.54.117.242 NS:failed-whois-verification.namecheap.com
+homoglyph      cöïnbase.com     198.54.117.242 NS:failed-whois-verification.namecheap.com
+homoglyph      cọịnbase.com     199.59.243.226
+homoglyph      coiꞑbase.com     199.59.243.226 NS:ns1.dyna-ns.net
+homoglyph      coińbāse.com     199.59.243.226
+homoglyph      ċoìnbase.com     45.141.58.30 NS:dns1.dnshost.to MX:xn--onbase-wva0w.com
+homoglyph      colmbase.com     51.20.143.101 NS:ns-1111.awsdns-10.org
+homoglyph      ƈọinbase.com     74.48.161.137 NS:braelyn.ns.cloudflare.com MX:mail.xn--inbase-2rb8501d.com
+homoglyph      coiñbąse.com     75.2.115.196 NS:ns1.dyna-ns.net
+homoglyph      cöinbåse.com     84.32.84.32 NS:ns1.dns-parking.com MX:mx1.titan.email
+homoglyph      c0inbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      co1nbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinibase.com    99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinlbase.com    99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinnbase.com    99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coirbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cõinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cőinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cöinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cọinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      còinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cơinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cᴏinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cŏinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cøinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cỏinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      côinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      cȯinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiňbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coińbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiñbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiṉbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiṅbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiǹbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coiŋbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinʙase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinḇase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinḃase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaṣe.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaꜱe.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaşe.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaše.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaʂe.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbaŝe.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasē.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasę.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasĕ.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasȩ.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasê.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasḛ.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasě.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbasë.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbãse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbȧse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbäse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbăse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbåse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbǎse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbâse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coinbāse.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coǐnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coįnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coɪnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coînbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coȋnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coïnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coĭnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coɨnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coĩnbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      ċoinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      čoinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      ĉoinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      ƈoinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+homoglyph      coimbase.com     NS:ns3.epik.com
+homoglyph      coinbasc.com     NS:pdns1.registrar-servers.com MX:alt1.aspmx.l.google.com
+homoglyph      coirlbase.com    2a02:4780:11:1357:0:3372:2fc6:3 NS:ns1.dns-parking.com
+homoglyph      c0ınbase.com     NS:1-you.njalla.no
+homoglyph      cóinbase.com     NS:carl.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      coíņbase.com     NS:isla.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      coìṇbase.com     NS:ns1.priv4sys.com
+homoglyph      coìņbase.com     NS:alina.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      coinbaśe.com     2607:f130:0:f3:ff:ff:867a:d7c1 NS:braelyn.ns.cloudflare.com MX:mail.xn--coinbae-ipb.com
+homoglyph      coìnbasè.com     NS:isla.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      coìnbase.com     NS:braelyn.ns.cloudflare.com
+homoglyph      coínbase.com     NS:ns1.dns-parking.com
+homoglyph      coīnbase.com     NS:ns1.dyna-ns.net MX:mx1.privateemail.com
+homoglyph      ćoinbasé.com     NS:isla.ns.cloudflare.com MX:mx1.privateemail.com
+homoglyph      ᴄoinbase.com     NS:braelyn.ns.cloudflare.com MX:mx1.privateemail.com
+hyphenation    coin-base.com    82.221.141.141 NS:ns1.parklogic.com MX:mx156.hostedmxserver.com
+hyphenation    c-oinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+hyphenation    co-inbase.com    99.83.176.46 NS:ns1.markmonitor.com
+hyphenation    coi-nbase.com    99.83.176.46 NS:ns1.markmonitor.com
+hyphenation    coinb-ase.com    99.83.176.46 NS:ns1.markmonitor.com
+hyphenation    coinba-se.com    99.83.176.46 NS:ns1.markmonitor.com
+hyphenation    coinbas-e.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbaese.com    !ServFail !ServFail NS:!ServFail
+insertion      coiinbase.com    15.197.225.128 NS:ns41.domaincontrol.com
+insertion      coimnbase.com    209.196.146.115 NS:ns3.epik.com
+insertion      coinbaase.com    46.166.189.98
+insertion      c0oinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      c9oinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cdoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cfoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cioinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      ckoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cloinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      co0inbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      co8inbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      co9inbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coi8nbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coi9nbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coibnbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coihnbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coijnbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coiknbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinb1ase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinb2ase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinba1se.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinba2se.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbadse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbaqse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasae.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasde.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasqe.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbaswe.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasxe.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasye.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasze.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbawse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbaxse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbayse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbazse.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbgase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbhase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbnase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbqase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbsase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbvase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbwase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbyase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbzase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coingbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinhbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinjbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinmbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinvbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coionbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coiunbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cojinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cokinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      colinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      copinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      couinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      cpoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      dcoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      fcoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      xcoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+insertion      coinbasse.com    NS:ns1.markmonitor.com
+insertion      cooinbase.com    NS:ns1.markmonitor.com
+insertion      cvoinbase.com    NS:ns1.markmonitor.com
+insertion      cxoinbase.com    NS:ns1.markmonitor.com
+omission       conbase.com      209.196.146.115 NS:ns3.epik.com
+omission       coinase.com      37.48.65.136 NS:ns1.koaladns.com
+omission       cinbase.com      99.83.176.46 NS:ns1.markmonitor.com
+omission       coibase.com      99.83.176.46 NS:ns1.markmonitor.com
+omission       oinbase.com      99.83.176.46 NS:ns1.markmonitor.com
+omission       coinbas.com      NS:ns1.markmonitor.com
+omission       coinbse.com      NS:ns1.markmonitor.com
+plural         coinsbase.com    99.83.176.46 NS:ns1.markmonitor.com
+repetition     ccoinbase.com    99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinhase.com     103.224.182.239 NS:ns1.abovedomains.com MX:park-mx.above.com
+replacement    coinbade.com     185.53.177.50 NS:ns1.parkingcrew.net MX:mail.h-email.net
+replacement    cpinbase.com     199.59.243.226 NS:ns1.bodis.com
+replacement    coinbasw.com     44.199.117.82 NS:expired1.namebrightdns.com
+replacement    coinbass.com     46.166.189.98
+replacement    coinnase.com     46.166.189.98
+replacement    c9inbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    co8nbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    co9nbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coibbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coihbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinb1se.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinb2se.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbaae.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbaee.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbas3.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbas4.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbasz.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbaxe.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbaye.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbaze.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbsse.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbwse.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbyse.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinbzse.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    coinvase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    counbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    doinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    foinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    voinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    xoinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+replacement    ciinbase.com     NS:ns1.markmonitor.com
+replacement    clinbase.com     NS:dns1.cscdns.net
+replacement    coinbasr.com     NS:ns1.markmonitor.com
+replacement    coingase.com     NS:ns1.markmonitor.com
+replacement    cojnbase.com     NS:ns1.markmonitor.com
+replacement    coonbase.com     NS:ns3.epik.com
+subdomain      coi.nbase.com    185.53.177.54 NS:ns1.parkingcrew.net MX:mail.h-email.net
+subdomain      coinb.ase.com    23.253.146.205
+transposition  cionbase.com     127.0.0.1 NS:ns1.parklogic.com MX:mx156.hostedmxserver.com
+transposition  coinabse.com     46.166.189.98
+transposition  coibnase.com     99.83.176.46 NS:ns1.markmonitor.com
+transposition  ocinbase.com     99.83.176.46 NS:ns1.markmonitor.com
+transposition  conibase.com     NS:ns1.markmonitor.com
+various        coinbasecom.com  209.196.146.115 NS:ns3.epik.com
+vowel-swap     coenbase.com     103.224.182.239 NS:ns1.abovedomains.com MX:park-mx.above.com
+vowel-swap     coinbasi.com     107.161.23.204 NS:ns1.dnsowl.com
+vowel-swap     ceinbase.com     108.61.216.142 NS:cecelia.ns.cloudflare.com
+vowel-swap     coinbose.com     199.59.243.226 NS:ns1.bodis.com
+vowel-swap     coinbuse.com     3.64.163.50 NS:ns1.dan.com
+vowel-swap     cainbase.com     72.52.179.174 NS:ns4.dnsauthority.com MX:mail.hope-mail.com

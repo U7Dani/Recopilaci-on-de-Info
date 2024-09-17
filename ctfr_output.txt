@@ -1,0 +1,541 @@
+
+          ____ _____ _____ ____  
+         / ___|_   _|  ___|  _ \ 
+        | |     | | | |_  | |_) |
+        | |___  | | |  _| |  _ < 
+         \____| |_| |_|   |_| \_\
+	
+     Version 1.2 - Hey don't miss AXFR!
+    Made by Sheila A. Berta (UnaPibaGeek)
+	
+
+[!] ---- TARGET: coinbase.com ---- [!] 
+
+[-]  *.accounts.coinbase.com
+accounts.coinbase.com
+[-]  *.am.coinbase.com
+am.coinbase.com
+[-]  *.analytics.coinbase.com
+analytics.coinbase.com
+[-]  *.api-public.pro--coinbase.com
+*.bezeqjinx.pro--coinbase.com
+*.board.pro--coinbase.com
+*.eio.pro--coinbase.com
+*.elasticbeanstalk-hwcdn.pro--coinbase.com
+*.elasticbeanstalkhwcdn.pro--coinbase.com
+*.elasticbeanstalkjinx.pro--coinbase.com
+*.elasticbeanstalk-lax1.pro--coinbase.com
+*.elasticbeanstalklax1.pro--coinbase.com
+*.elasticbeanstalk-lax1-shein.pro--coinbase.com
+*.elasticbeanstalk-lax2.pro--coinbase.com
+*.elasticbeanstalklax2.pro--coinbase.com
+*.elasticbeanstalk.pro--coinbase.com
+*.elasticbeanstalk-w3.pro--coinbase.com
+*.elasticbeanstalkw3.pro--coinbase.com
+*.hwcdn-elasticbeanstalk.pro--coinbase.com
+*.hwcdnelasticbeanstalk.pro--coinbase.com
+*.hwcdnhwcdn.pro--coinbase.com
+*.hwcdn.pro--coinbase.com
+*.jinxelasticbeanstalk.pro--coinbase.com
+*.jinx.pro--coinbase.com
+*.lax1-elasticbeanstalk.pro--coinbase.com
+*.lax1elasticbeanstalk.pro--coinbase.com
+*.lax1.pro--coinbase.com
+*.lax2-elasticbeanstalk.pro--coinbase.com
+*.lax2elasticbeanstalk.pro--coinbase.com
+*.lax2.pro--coinbase.com
+*.nagios.pro--coinbase.com
+*.painel.pro--coinbase.com
+*.partner.pro--coinbase.com
+*.pro--coinbase.com
+pro--coinbase.com
+*.usps-painel.pro--coinbase.com
+*.w3-elasticbeanstalk.pro--coinbase.com
+*.w3.pro--coinbase.com
+*.ww25.pro--coinbase.com
+*.ww82.pro--coinbase.com
+[-]  *.billing-systems.coinbase.com
+billing-systems.coinbase.com
+[-]  *.braintree-webhooks.coinbase.com
+braintree-webhooks.coinbase.com
+[-]  *.cbs.coinbase.com
+cbs.coinbase.com
+[-]  *.ccm.coinbase.com
+ccm.coinbase.com
+[-]  *.cdp.coinbase.com
+*.cloud.coinbase.com
+*.coinbase.com
+coinbase.com
+*.commerce.coinbase.com
+*.consumer.coinbase.com
+*.developer.coinbase.com
+*.exchange.coinbase.com
+*.institutional.coinbase.com
+*.international.coinbase.com
+*.pay.coinbase.com
+*.prime.coinbase.com
+*.wallet.coinbase.com
+[-]  *.cdp.coinbase.com
+cdp.coinbase.com
+[-]  *.cdp.coinbase.com
+coinbase.com
+[-]  *.cloud.coinbase.com
+*.coinbase.com
+coinbase.com
+[-]  *.cloud.coinbase.com
+*.coinbase.com
+coinbase.com
+*.commerce.coinbase.com
+*.consumer.coinbase.com
+*.developer.coinbase.com
+*.institutional.coinbase.com
+*.international.coinbase.com
+*.pay.coinbase.com
+*.wallet.coinbase.com
+[-]  *.cloud.coinbase.com
+*.coinbase.com
+coinbase.com
+*.console.cloud.coinbase.com
+[-]  *.cloud.coinbase.com
+*.coinbase.com
+coinbase.com
+*.developer.coinbase.com
+[-]  *.cloud.coinbase.com
+*.console.cloud.coinbase.com
+*.developer.coinbase.com
+[-]  *.cloud.coinbase.com
+*.developer.coinbase.com
+[-]  *.cloud.coinbase.com
+cloud.coinbase.com
+[-]  *.coinbase.com
+[-]  *.coinbase.com
+coinbase.com
+[-]  *.commerce.coinbase.com
+[-]  *.commerce.coinbase.com
+commerce.coinbase.com
+[-]  *.crypto.coinbase.com
+crypto.coinbase.com
+[-]  *.custody.coinbase.com
+custody.coinbase.com
+[-]  *.exchange.coinbase.com
+exchange.coinbase.com
+[-]  *.external.coinbase.com
+external.coinbase.com
+[-]  *.help--coinbase.com
+help--coinbase.com
+[-]  *.help.coinbase.com
+help.coinbase.com
+[-]  *.indexer.coinbase.com
+indexer.coinbase.com
+[-]  *.international.coinbase.com
+[-]  *.lite.wallet.coinbase.com
+lite.wallet.coinbase.com
+[-]  *.mail.coinbase.com
+mail.coinbase.com
+[-]  *.n5e2.coinbase.com
+[-]  *.nft.coinbase.com
+nft.coinbase.com
+[-]  *.prime.coinbase.com
+[-]  *.prime.coinbase.com
+prime.coinbase.com
+[-]  *.prime.coinbase.com
+prime.coinbase.com
+*.sandbox.prime.coinbase.com
+[-]  *.primebroker.coinbase.com
+primebroker.coinbase.com
+[-]  *.pro--coinbase.com
+pro--coinbase.com
+[-]  *.pro.coinbase.com
+[-]  *.pro.coinbase.com
+pro.coinbase.com
+[-]  *.pro.coinbase.com
+pro.coinbase.com
+*.sandbox.pro.coinbase.com
+[-]  *.recruiting.coinbase.com
+recruiting.coinbase.com
+[-]  *.relay.coinbase.com
+relay.coinbase.com
+[-]  *.sandbox.exchange.coinbase.com
+sandbox.exchange.coinbase.com
+[-]  *.sandbox.prime.coinbase.com
+[-]  *.sandbox.prime.coinbase.com
+sandbox.prime.coinbase.com
+[-]  *.sandbox.pro.coinbase.com
+[-]  *.sandbox.pro.coinbase.com
+sandbox.pro.coinbase.com
+[-]  *.support--coinbase.com
+support--coinbase.com
+[-]  *.ventures.coinbase.com
+ventures.coinbase.com
+[-]  *.wallet.coinbase.com
+[-]  *.wallet.coinbase.com
+wallet.coinbase.com
+[-]  api-n5e1.coinbase.com
+[-]  api-n5e1.coinbase.com
+*.n5e2.coinbase.com
+[-]  api.am.coinbase.com
+*.coinbase.com
+coinbase.com
+[-]  api.commerce.coinbase.com
+*.coinbase.com
+coinbase.com
+wallet.commerce.coinbase.com
+[-]  api.custody.coinbase.com
+[-]  api.exchange.coinbase.com
+api.sandbox.coinbase.com
+*.coinbase.com
+coinbase.com
+docs.exchange.coinbase.com
+eio-feed.exchange.coinbase.com
+ent-api.sandbox.coinbase.com
+feed.exchange.coinbase.com
+fix.exchange.coinbase.com
+sandbox.exchange.coinbase.com
+ws-feed.exchange.coinbase.com
+[-]  api.exchange.coinbase.com
+api.sandbox.coinbase.com
+*.coinbase.com
+coinbase.com
+docs.exchange.coinbase.com
+eio-feed.exchange.coinbase.com
+ent-api.sandbox.coinbase.com
+feed.exchange.coinbase.com
+fix.exchange.coinbase.com
+sandbox.exchange.coinbase.com
+ws-feed.exchange.coinbase.com
+ws.sandbox.coinbase.com
+[-]  api.exchange.coinbase.com
+api.sandbox.coinbase.com
+*.coinbase.com
+coinbase.com
+docs.exchange.coinbase.com
+eio-feed.exchange.coinbase.com
+exchange.coinbase.com
+feed.exchange.coinbase.com
+sandbox.coinbase.com
+sandbox.exchange.coinbase.com
+ws-feed.exchange.coinbase.com
+[-]  api.exchange.coinbase.com
+api.sandbox.coinbase.com
+*.coinbase.com
+coinbase.com
+docs.exchange.coinbase.com
+eio-feed.exchange.coinbase.com
+feed.exchange.coinbase.com
+fix.exchange.coinbase.com
+sandbox.exchange.coinbase.com
+ws-feed.exchange.coinbase.com
+[-]  api.exchange.coinbase.com
+api.sandbox.coinbase.com
+*.coinbase.com
+coinbase.com
+docs.exchange.coinbase.com
+eio-feed.exchange.coinbase.com
+feed.exchange.coinbase.com
+sandbox.exchange.coinbase.com
+ws-feed.exchange.coinbase.com
+[-]  app.analytics.coinbase.com
+[-]  billing-systems.coinbase.com
+[-]  blog.coinbase.com
+[-]  blog.coinbase.com
+blog-dev.coinbase.com
+blog-staging.coinbase.com
+help.coinbase.com
+help-dev.coinbase.com
+help-staging.coinbase.com
+portal.coinbase.com
+press.coinbase.com
+press-dev.coinbase.com
+press-staging.coinbase.com
+support.coinbase.com
+support-dev.coinbase.com
+support-dev.prime.coinbase.com
+support-dev.pro.coinbase.com
+support.prime.coinbase.com
+support.pro.coinbase.com
+support-staging.coinbase.com
+support-staging.prime.coinbase.com
+support-staging.pro.coinbase.com
+[-]  blog.coinbase.com
+blog-dev.coinbase.com
+blog-staging.coinbase.com
+help.coinbase.com
+help-dev.coinbase.com
+help-staging.coinbase.com
+portal.coinbase.com
+press.coinbase.com
+press-dev.coinbase.com
+press-staging.coinbase.com
+support.coinbase.com
+support-dev.coinbase.com
+support-staging.coinbase.com
+[-]  blog.coinbase.com
+www.blog.coinbase.com
+[-]  cb.mail.coinbase.com
+coinbase.com
+mail.coinbase.com
+[-]  cloud-docs-beta.coinbase.com
+[-]  coinbase.com
+*.international.coinbase.com
+[-]  coinbase.com
+www.coinbase.com
+[-]  coinbase.com-----crypto.mineluckydays.com
+[-]  coinbase.com-----via.mooo.com
+[-]  coinbase.com-----via.user-info.online
+[-]  coinbase.com---crypto.publicvm.com
+www.coinbase.com---crypto.publicvm.com
+[-]  coinbase.com---crypto.space
+[-]  coinbase.com---crypto.work.gd
+[-]  coinbase.com--en-cgi.0000w97bs8.calgarysecurity.org
+www.coinbase.com--en-cgi.0000w97bs8.calgarysecurity.org
+[-]  community.coinbase.com
+[-]  cpanel.https--coinbase.com
+[-]  cpanel.https--coinbase.com
+cpcalendars.https--coinbase.com
+cpcontacts.https--coinbase.com
+https--coinbase.com
+mail.https--coinbase.com
+webdisk.https--coinbase.com
+webmail.https--coinbase.com
+www.https--coinbase.com
+[-]  cpanel.link--coinbase.com
+cpcalendars.link--coinbase.com
+cpcontacts.link--coinbase.com
+link--coinbase.com
+mail.link--coinbase.com
+webdisk.link--coinbase.com
+webmail.link--coinbase.com
+www.link--coinbase.com
+[-]  cpanel.link--coinbase.com
+cpcalendars.link--coinbase.com
+cpcontacts.link--coinbase.com
+mail.link--coinbase.com
+webdisk.link--coinbase.com
+webmail.link--coinbase.com
+[-]  cpanel.link--coinbase.com
+cpcalendars.link--coinbase.com
+cpcontacts.link--coinbase.com
+mail.link--coinbase.com
+webdisk.link--coinbase.com
+webmail.link--coinbase.com
+www.link--coinbase.com
+[-]  cpanel.link--coinbase.com
+link--coinbase.com
+webdisk.link--coinbase.com
+www.link--coinbase.com
+[-]  cpcalendars.https--coinbase.com
+[-]  cpcalendars.https--coinbase.com
+cpcontacts.https--coinbase.com
+www.https--coinbase.com
+[-]  cpcalendars.https--coinbase.com
+https--coinbase.com
+mail.https--coinbase.com
+www.https--coinbase.com
+[-]  cpcontacts.https--coinbase.com
+[-]  custody.coinbase.com
+[-]  d1a598d2-dc7f-48bc-8c73-c067bcc8776e.coinbase.com
+[-]  dev.primebroker.coinbase.com
+help.coinbase.com
+help-dev.coinbase.com
+help-staging.coinbase.com
+portal.coinbase.com
+primebroker.coinbase.com
+prime.coinbase.com
+prime-dev.coinbase.com
+prime-staging.coinbase.com
+staging.primebroker.coinbase.com
+support.coinbase.com
+support-dev.coinbase.com
+support-dev.prime.coinbase.com
+support-dev.pro.coinbase.com
+support.prime.coinbase.com
+support.pro.coinbase.com
+support-staging.coinbase.com
+support-staging.prime.coinbase.com
+support-staging.pro.coinbase.com
+[-]  docs.cloud.coinbase.com
+[-]  docs.custody.coinbase.com
+[-]  docs.custody.coinbase.com
+www.docs.custody.coinbase.com
+[-]  engineering.coinbase.com
+www.engineering.coinbase.com
+[-]  ethoca-sandbox.coinbase.com
+[-]  ethoca.coinbase.com
+[-]  exchange.coinbase.com
+login.coinbase.com
+www.coinbase.com
+[-]  filetransfer.coinbase.com
+[-]  fix.international.coinbase.com
+[-]  help---coinbase.com
+[-]  help--coinbase.com
+[-]  help--coinbase.com
+www.help--coinbase.com
+[-]  help-support--coinbase.com
+[-]  help-supports--coinbase.com
+[-]  help.coinbase.com
+help-dev.coinbase.com
+help-staging.coinbase.com
+portal.coinbase.com
+prime.coinbase.com
+prime-dev.coinbase.com
+prime-staging.coinbase.com
+support.coinbase.com
+support-dev.coinbase.com
+support-dev.prime.coinbase.com
+support-dev.pro.coinbase.com
+support.prime.coinbase.com
+support.pro.coinbase.com
+support-staging.coinbase.com
+support-staging.prime.coinbase.com
+support-staging.pro.coinbase.com
+[-]  helps--coinbase.com
+[-]  helpsupport--coinbase.com
+[-]  helpsupports--coinbase.com
+[-]  https--coinbase.com
+[-]  https--coinbase.com
+www.https--coinbase.com
+[-]  info--coinbase.com
+[-]  info--help--coinbase.com
+[-]  info-help---coinbase.com
+[-]  info-help--coinbase.com
+[-]  info-security--coinbase.com
+[-]  infohelp--coinbase.com
+[-]  institutional.coinbase.com
+[-]  investor.coinbase.com
+[-]  jpm-rtp-dev.coinbase.com
+[-]  jpmorgan-callback.coinbase.com
+[-]  jpmorgan-intl-callback-dev.coinbase.com
+[-]  jpmorgan-intl-callback.coinbase.com
+[-]  jpmorgan-intl-dev.coinbase.com
+[-]  jpmorgan-intl.coinbase.com
+[-]  js-prime-prod.coinbase.com
+[-]  js-prime-uat.coinbase.com
+[-]  link--coinbase.com
+[-]  lionheart.coinbase.com
+[-]  login--coinbase.com
+mail.login--coinbase.com
+www.login--coinbase.com
+[-]  mail--coinbase.com
+mail.mail--coinbase.com
+www.mail--coinbase.com
+[-]  mail.https--coinbase.com
+[-]  my-coinbase.com
+signin--coinbase.com
+[-]  n5e2.coinbase.com
+[-]  noreply---coinbase.com
+[-]  payments-rtp-callback.coinbase.com
+[-]  payments-rtp.coinbase.com
+[-]  pg-sign-key-COINBASE-001.prod.coinbase.com
+[-]  pg-sign-key-COINBASE-002.prod.coinbase.com
+[-]  pg-sign-key-COINBASE-003.prod.coinbase.com
+[-]  prime.coinbase.com
+[-]  pro--coinbase.com
+[-]  pro--coinbase.com
+ww-coinbase.com
+w-w-w-coinbase.com
+ww-w-coinbase.com
+[-]  pro.coinbase.com
+[-]  production.au10tix.coinbase.com
+[-]  security---coinbase.com
+[-]  security--coinbase.com
+[-]  singpass-dev.coinbase.com
+[-]  singpass-uat.coinbase.com
+[-]  singpass.coinbase.com
+[-]  staging.community.coinbase.com
+[-]  status.exchange.coinbase.com
+status.prime.coinbase.com
+[-]  status.prime.coinbase.com
+[-]  support---coinbase.com
+[-]  support--coinbase.com
+[-]  support.coinbase.com
+[-]  support.coinbase.com
+support.prime.coinbase.com
+support.pro.coinbase.com
+[-]  supports---coinbase.com
+[-]  supports--coinbase.com
+[-]  taxform.coinbase.com
+[-]  ventures.coinbase.com
+[-]  webdisk.https--coinbase.com
+[-]  webmail.https--coinbase.com
+[-]  worldpay-authed.coinbase.com
+[-]  ws-md.international.coinbase.com
+[-]  ws-md.n5e2.coinbase.com
+[-]  ww11.elasticbeanstalk-lax1-shein.pro--coinbase.com
+[-]  ww16.elasticbeanstalk-lax1-shein.pro--coinbase.com
+[-]  ww2.api-public.pro--coinbase.com
+[-]  ww2.board.pro--coinbase.com
+[-]  ww2.nagios.pro--coinbase.com
+[-]  ww2.painel.pro--coinbase.com
+[-]  ww2.partner.pro--coinbase.com
+[-]  ww2.pro--coinbase.com
+[-]  ww25.elasticbeanstalk-hwcdn.pro--coinbase.com
+[-]  ww25.elasticbeanstalk-lax1.pro--coinbase.com
+[-]  ww25.elasticbeanstalk.pro--coinbase.com
+[-]  ww25.jinxelasticbeanstalk.pro--coinbase.com
+[-]  ww25.lax1elasticbeanstalk.pro--coinbase.com
+[-]  ww25.lax2elasticbeanstalk.pro--coinbase.com
+[-]  ww25.partner.pro--coinbase.com
+[-]  ww25.pro--coinbase.com
+[-]  ww25.w3-elasticbeanstalk.pro--coinbase.com
+[-]  ww25.w3.elasticbeanstalk.pro--coinbase.com
+[-]  ww82.pro--coinbase.com
+[-]  ww92.elasticbeanstalk-hwcdn.pro--coinbase.com
+[-]  ww92.elasticbeanstalk-lax1.pro--coinbase.com
+[-]  ww92.elasticbeanstalk-lax2.pro--coinbase.com
+[-]  ww92.elasticbeanstalk-w3.pro--coinbase.com
+[-]  ww92.elasticbeanstalk.jinx.pro--coinbase.com
+[-]  ww92.elasticbeanstalk.lax1.pro--coinbase.com
+[-]  ww92.elasticbeanstalk.lax2.pro--coinbase.com
+[-]  ww92.elasticbeanstalk.pro--coinbase.com
+[-]  ww92.elasticbeanstalk.w3.pro--coinbase.com
+[-]  ww92.elasticbeanstalkhwcdn.pro--coinbase.com
+[-]  ww92.elasticbeanstalkjinx.pro--coinbase.com
+[-]  ww92.elasticbeanstalklax1.pro--coinbase.com
+[-]  ww92.elasticbeanstalklax2.pro--coinbase.com
+[-]  ww92.elasticbeanstalkw3.pro--coinbase.com
+[-]  ww92.hwcdn-elasticbeanstalk.pro--coinbase.com
+[-]  ww92.hwcdn.elasticbeanstalk.pro--coinbase.com
+[-]  ww92.hwcdn.pro--coinbase.com
+[-]  ww92.hwcdnelasticbeanstalk.pro--coinbase.com
+[-]  ww92.jinx.pro--coinbase.com
+[-]  ww92.jinxelasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax1-elasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax1.elasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax1.pro--coinbase.com
+[-]  ww92.lax1elasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax2-elasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax2.elasticbeanstalk.pro--coinbase.com
+[-]  ww92.lax2.pro--coinbase.com
+[-]  ww92.lax2elasticbeanstalk.pro--coinbase.com
+[-]  ww92.pro--coinbase.com
+[-]  ww92.w3-elasticbeanstalk.pro--coinbase.com
+[-]  ww92.w3.elasticbeanstalk.pro--coinbase.com
+[-]  ww92.w3.pro--coinbase.com
+[-]  www---coinbase.com
+www.www---coinbase.com
+[-]  www--coinbase.com
+www-pro-coinbase.com
+[-]  www.help---coinbase.com
+[-]  www.help-support--coinbase.com
+[-]  www.help-supports--coinbase.com
+[-]  www.helps--coinbase.com
+[-]  www.helpsupport--coinbase.com
+[-]  www.helpsupports--coinbase.com
+[-]  www.https--coinbase.com
+[-]  www.info--coinbase.com
+[-]  www.info--help--coinbase.com
+[-]  www.info-help---coinbase.com
+[-]  www.info-help--coinbase.com
+[-]  www.info-security--coinbase.com
+[-]  www.infohelp--coinbase.com
+[-]  www.link--coinbase.com
+[-]  www.noreply---coinbase.com
+[-]  www.security---coinbase.com
+[-]  www.security--coinbase.com
+[-]  www.support---coinbase.com
+[-]  www.support--coinbase.com
+[-]  www.supports---coinbase.com
+[-]  www.supports--coinbase.com
+
+
+[!]  Done. Have a nice day! ;).

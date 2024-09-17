@@ -1,0 +1,13 @@
+Server:		192.168.1.1
+Address:	192.168.1.1#53
+
+Non-authoritative answer:
+Name:	coinbase.com
+Address: 104.18.35.15
+Name:	coinbase.com
+Address: 172.64.152.241
+Name:	coinbase.com
+Address: 2606:4700:4400::ac40:98f1
+Name:	coinbase.com
+Address: 2606:4700:4400::6812:230f
+

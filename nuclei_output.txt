@@ -1,0 +1,23 @@
+[dns-waf-detect:cloudflare] [dns] [info] coinbase.com
+[tls-version] [ssl] [info] coinbase.com:443 ["tls12"]
+[tls-version] [ssl] [info] coinbase.com:443 ["tls13"]
+[caa-fingerprint] [dns] [info] coinbase.com ["amazonaws.com","digicert.com","pki.goog; cansignhttpexchanges=yes","mailto:security@coinbase.com"]
+[mx-service-detector:Google Apps] [dns] [info] coinbase.com
+[mx-fingerprint] [dns] [info] coinbase.com ["10 alt3.aspmx.l.google.com.","10 alt4.aspmx.l.google.com.","5 alt1.aspmx.l.google.com.","5 alt2.aspmx.l.google.com.","1 aspmx.l.google.com."]
+[nameserver-fingerprint] [dns] [info] coinbase.com ["sam.ns.cloudflare.com.","sue.ns.cloudflare.com."]
+[dmarc-detect] [dns] [info] _dmarc.coinbase.com [""v=DMARC1; p=reject; sp=reject; adkim=s; aspf=s; fo=1; rua=mailto:jpohmdhp@ag.dmarcian.com,mailto:dmarc_agg@dmarc.250ok.net; ruf=mailto:jpohmdhp@fr.dmarcian.com,mailto:coinbase-external-abuse@spam.riskiq.net,mailto:dmarc_fr@dmarc.250ok.net;""]
+[tech-detect:cloudflare] [http] [info] https://coinbase.com
+[azure-domain-tenant] [http] [info] https://login.microsoftonline.com:443/coinbase.com/v2.0/.well-known/openid-configuration ["3d309027-3cd0-4b06-86b6-5150f8834c76"]
+[security-txt] [http] [info] https://www.coinbase.com/.well-known/security.txt ["https://hackerone.com/coinbase"]
+[rdap-whois:lastChangeDate] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["2024-06-01T10:33:39Z"]
+[rdap-whois:expirationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["2026-07-02T18:23:22Z"]
+[rdap-whois:nameServers] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["SAM.NS.CLOUDFLARE.COM","SUE.NS.CLOUDFLARE.COM"]
+[rdap-whois:secureDNS] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["false"]
+[rdap-whois:status] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["server update prohibited","client delete prohibited","client transfer prohibited","client update prohibited","server delete prohibited","server transfer prohibited"]
+[rdap-whois:registrationDate] [http] [info] https://rdap.verisign.com/com/v1/domain/coinbase.com ["2011-07-02T18:23:22Z"]
+[ms-exchange-user-enum] [http] [info] https://coinbase.com/autodiscover/autodiscover.json?Protocol=ActiveSync&Email=bQBEwe%40oast.pro&RedirectCount=1 ["bQBEwe%40oast.pro"]
+[missing-sri] [http] [info] https://www.coinbase.com/es-es/ ["https://www.coinbase.com/assets/sw-cache/e_CbXH4IBY.js"]
+[waf-detect:cloudflare] [http] [info] https://coinbase.com
+[ssl-issuer] [ssl] [info] coinbase.com:443 ["Google Trust Services"]
+[ssl-dns-names] [ssl] [info] coinbase.com:443 ["coinbase.com","*.cdp.coinbase.com"]
+[wildcard-tls] [ssl] [info] coinbase.com:443 ["CN: coinbase.com","SAN: [coinbase.com *.cdp.coinbase.com]"]

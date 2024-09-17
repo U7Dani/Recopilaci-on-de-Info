@@ -1,0 +1,9 @@
+[*] Found SPF record:
+[*] v=spf1 include:amazonses.com include:_spf.google.com -all
+[*] SPF record contains an All item: -all
+[*] Found DMARC record:
+[*] v=DMARC1; p=reject; sp=reject; adkim=s; aspf=s; fo=1; rua=mailto:jpohmdhp@ag.dmarcian.com,mailto:dmarc_agg@dmarc.250ok.net; ruf=mailto:jpohmdhp@fr.dmarcian.com,mailto:coinbase-external-abuse@spam.riskiq.net,mailto:dmarc_fr@dmarc.250ok.net;
+[-] DMARC policy set to reject
+[*] Aggregate reports will be sent: mailto:jpohmdhp@ag.dmarcian.com,mailto:dmarc_agg@dmarc.250ok.net
+[*] Forensics reports will be sent: mailto:jpohmdhp@fr.dmarcian.com,mailto:coinbase-external-abuse@spam.riskiq.net,mailto:dmarc_fr@dmarc.250ok.net
+[-] Spoofing not possible for coinbase.com

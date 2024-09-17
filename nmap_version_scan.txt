@@ -1,0 +1,11 @@
+# Nmap 7.94SVN scan initiated Sun Sep 15 18:10:08 2024 as: nmap -Pn -sV -p80,443 -oN /home/kali/Desktop/Coinbase.com/nmap_version_scan.txt coinbase.com
+Nmap scan report for coinbase.com (172.64.152.241)
+Host is up (0.0028s latency).
+Other addresses for coinbase.com (not scanned): 104.18.35.15 2606:4700:4400::6812:230f 2606:4700:4400::ac40:98f1
+
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     Cloudflare http proxy
+443/tcp open  ssl/http Cloudflare http proxy
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 15 18:10:23 2024 -- 1 IP address (1 host up) scanned in 14.42 seconds
