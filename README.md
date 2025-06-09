@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/76257ad1-2ad6-4586-8e6e-fc469cb23d9c)
 
 # 🕵️‍♂️ Informe de Reconocimiento: coinbase.com
 
